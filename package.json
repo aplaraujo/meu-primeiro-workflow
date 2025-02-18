@@ -1,0 +1,22 @@
+{
+  "name": "meu-primeiro-workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Teste rodando...\"",
+    "build": "echo \"Build rodando...\"",
+    "deploy": "echo \"Rodando para produção...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplaraujo/meu-primeiro-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplaraujo/meu-primeiro-workflow/issues"
+  },
+  "homepage": "https://github.com/aplaraujo/meu-primeiro-workflow#readme",
+  "description": ""
+}
